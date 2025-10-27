@@ -15,7 +15,7 @@ const About = () => {
           <img src={"./drivers/d8.jpg"} alt="" />
         </div>
         <div className="aleft">
-          <p className="p1">Few words about Smart Cab Point</p>
+          <p className="p1">Few words about RAINDROP TAXI </p>
           <h1>Learn about Our Taxi Company</h1>
           <p className="p2">
             Welcome to our Smart cab Point! We are a team of
