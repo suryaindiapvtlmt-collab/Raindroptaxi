@@ -3,7 +3,7 @@ import React from 'react';
 
 function EmailIcon() {
   return (
-    <a href="mailto:example@example.com">
+    <a href="mailto:prasanthvjm890@gmail.com">
       <i className="fa fa-envelope"></i>
     </a>
   );
