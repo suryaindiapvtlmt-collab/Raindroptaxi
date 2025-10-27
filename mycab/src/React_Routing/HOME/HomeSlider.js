@@ -49,7 +49,7 @@ const HomeSlider = () => {
       className='hs' responsive={Responsive}>
       <div><div className='p1'>
 
-        <h5 className={isAnimated ? 'animate' : ''}>WELCOME TO SMART CAB !</h5>
+        <h5 className={isAnimated ? 'animate' : ''}>WELCOME TO RAINDROP TAXI !</h5>
 
         <h1 className={isAnimated ? 'animate' : ''}>BOOK <span>TAXI</span> FOR YOUR RIDE</h1>
         <div className={isAnimated ? 'animate homeaboutbtn' : 'homeaboutbtn'}>
@@ -67,7 +67,7 @@ const HomeSlider = () => {
 
       <div><div className='p2'>
 
-        <h5 className={isAnimated ? 'animate' : ''}>WELCOME TO SMART CAB !</h5>
+        <h5 className={isAnimated ? 'animate' : ''}>WELCOME TO RAINDROP TAXI !</h5>
 
         <h1 className={isAnimated ? 'animate' : ''}>BOOK <span>TAXI</span> FOR YOUR RIDE</h1>
         <div className={isAnimated ? 'animate homeaboutbtn' : 'homeaboutbtn'}>
@@ -83,7 +83,7 @@ const HomeSlider = () => {
       </div> </div>
       <div><div className='p3'>
 
-      <h5 className={isAnimated ? 'animate' : ''}>WELCOME TO SMART CAB !</h5>
+      <h5 className={isAnimated ? 'animate' : ''}>WELCOME TO RAINDROP TAXI !</h5>
 
         <h1 className={isAnimated ? 'animate' : ''}>BOOK <span>TAXI</span> FOR YOUR RIDE</h1>
         <div className={isAnimated ? 'animate homeaboutbtn' : 'homeaboutbtn'}>
@@ -99,7 +99,7 @@ const HomeSlider = () => {
       </div> </div>
       <div><div className='p4'>
 
-      <h5 className={isAnimated ? 'animate' : ''}>WELCOME TO SMART CAB !</h5>
+      <h5 className={isAnimated ? 'animate' : ''}>WELCOME TO RAINDROP TAXI !</h5>
 
         <h1 className={isAnimated ? 'animate' : ''}>BOOK <span>TAXI</span> FOR YOUR RIDE</h1>
         <div className={isAnimated ? 'animate homeaboutbtn' : 'homeaboutbtn'}>
@@ -116,7 +116,7 @@ const HomeSlider = () => {
       </div> </div>
       <div><div className='p5'>
 
-      <h5 className={isAnimated ? 'animate' : ''}>WELCOME TO SMART CAB !</h5>
+      <h5 className={isAnimated ? 'animate' : ''}>WELCOME TO RAINDROP TAXI !</h5>
 
         <h1 className={isAnimated ? 'animate' : ''}>BOOK <span>TAXI</span> FOR YOUR RIDE</h1>
         <div className={isAnimated ? 'animate homeaboutbtn' : 'homeaboutbtn'}>
@@ -132,7 +132,7 @@ const HomeSlider = () => {
       </div></div>
       <div><div className='p6'>
 
-      <h5 className={isAnimated ? 'animate' : ''}>WELCOME TO SMART CAB !</h5>
+      <h5 className={isAnimated ? 'animate' : ''}>WELCOME TO RAINDROP TAXI !</h5>
 
         <h1 className={isAnimated ? 'animate' : ''}>BOOK <span>TAXI</span> FOR YOUR RIDE</h1>
         <div className={isAnimated ? 'animate homeaboutbtn' : 'homeaboutbtn'}>
