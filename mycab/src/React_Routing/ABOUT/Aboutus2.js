@@ -13,7 +13,7 @@ const Aboutus2 = () => {
           <p className="p3">About Us</p>
           <h2>We Provide Trusted Cab Service In The World</h2>
           <p className="p4">
-            Welcome to our Smart cab Point! We are a team of
+            Welcome to our raindroptaxi ! We are a team of
             passionate individuals dedicated to providing safe, reliable, and
             convenient transportation services to our customers.
           </p>
