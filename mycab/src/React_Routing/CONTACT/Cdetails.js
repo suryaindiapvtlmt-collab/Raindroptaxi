@@ -34,7 +34,7 @@ const Cdetails = () => {
         <PhoneInTalkRoundedIcon fontSize="large" className="c-icon" />
       </div>
       <h4> Call Us</h4>
-      <h6>+91 124 256 789</h6>
+      <h6>+91 77080 06643</h6>
     </div>
   </div>
 
