@@ -20,7 +20,7 @@ const Drawerreact = (props) => {
               >
 
 
-            <h4>Smart Cab Point</h4>
+            <h4>raindroptaxi</h4>
             
             <div className='mynav-menu' onClick={props.onclose}>
                   <li><Link to="/home"><HomeIcon />Home</Link></li>
